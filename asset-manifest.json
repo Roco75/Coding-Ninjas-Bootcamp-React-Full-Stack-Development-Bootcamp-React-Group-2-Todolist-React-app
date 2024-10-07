@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coding-Ninjas-Bootcamp-React-Full-Stack-Development-Bootcamp-React-Group-2-Todolist-React-app/static/css/main.498257bb.css",
+    "main.js": "/Coding-Ninjas-Bootcamp-React-Full-Stack-Development-Bootcamp-React-Group-2-Todolist-React-app/static/js/main.9308288c.js",
+    "index.html": "/Coding-Ninjas-Bootcamp-React-Full-Stack-Development-Bootcamp-React-Group-2-Todolist-React-app/index.html",
+    "main.498257bb.css.map": "/Coding-Ninjas-Bootcamp-React-Full-Stack-Development-Bootcamp-React-Group-2-Todolist-React-app/static/css/main.498257bb.css.map",
+    "main.9308288c.js.map": "/Coding-Ninjas-Bootcamp-React-Full-Stack-Development-Bootcamp-React-Group-2-Todolist-React-app/static/js/main.9308288c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498257bb.css",
+    "static/js/main.9308288c.js"
+  ]
+}
